@@ -10,7 +10,18 @@
 
 ## Software
 
-Somthing on hwo to run the notebooks. 
+We will use ```Julia 1.0.3``` (https://julialang.org/) for the examples and exerceise.
+
+The easiest way to run the code for the examples and the exercise is to use JuliaBox (https://www.juliabox.com/). To run the code that we use with JuliaBox then:
+
+1. Go to https://www.juliabox.com/ and create a free account.
+2. Clone (or download) this repo to your local computer.
+3. In the Julia Box start scree, click on the ```jupyter``` tab and upload following files to your ```jupyter``` enviorment: ```computer exercise.ipynd```, ```computer exercise solutions.ipynd```, ```examples.ipynd```, and ```cars.csv```.
+4. You can now run the examples and work on the computer exercise.
+
+To get started with ```Julia``` there are some tutorials provided in JuliaBox.
+
+An alternative is to run everython on your local computer, which migth be preferable if you already have installed ```Julia```.
 
 ## References and further reading
 
