@@ -1,11 +1,15 @@
 # Pioneers-pp: Bayesian statistics and ABC talk
 
+The repo containes the examples and computer exercise that are associated with the "An Introduction to Bayesian Statistics and Approximate Bayesian Computing" meet-up event (https://www.meetup.com/Pioneers-of-Probabilistic-Programming/events/264336086/).
+
+## Files 
+
 - presentation.ipynb: nodebook with the presentation.
 - examples.ipynb: notebook with the code for the examples in the presentation.
 - computer exercise.ipynb: the computer exercies (inference for the Ricker model).
 - computer exercise solutions.ipynb: solutions for the computer exercise.
 - cars.csv: the speed and stopping distance for 1920s cars dataset (see https://stat.ethz.ch/R-manual/R-patched/library/datasets/html/cars.html).
-- /fig: figures for the pres and computer exercise.
+- /fig: figures for the presentation and computer exercise.
 
 
 ## Software
@@ -16,7 +20,7 @@ The easiest way to run the code for the examples and the exercise is to use Juli
 
 1. Go to https://www.juliabox.com/ and create a free account.
 2. Clone (or download) this repo to your local computer.
-3. In the Julia Box start scree, click on the ```jupyter``` tab and upload following files to your ```jupyter``` enviorment: ```computer exercise.ipynd```, ```computer exercise solutions.ipynd```, ```examples.ipynd```, and ```cars.csv```.
+3. In the JuliaBox start scree, click on the ```jupyter``` tab and upload following files to your ```jupyter``` enviorment: ```computer exercise.ipynd```, ```computer exercise solutions.ipynd```, ```examples.ipynd```, and ```cars.csv```.
 4. You can now run the examples and work on the computer exercise.
 
 To get started with ```Julia``` there are some tutorials provided in JuliaBox.
