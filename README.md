@@ -1,8 +1,8 @@
 # Pioneers-pp: Bayesian statistics and ABC talk
 
-The repo containes the examples and computer exercise that are associated with the "An Introduction to Bayesian Statistics and Approximate Bayesian Computing" meet-up event (https://www.meetup.com/Pioneers-of-Probabilistic-Programming/events/264336086/).
+The repo containes the examples and computer exercise that are associated with the *An Introduction to Bayesian Statistics and Approximate Bayesian Computing* Meetup event (https://www.meetup.com/Pioneers-of-Probabilistic-Programming/events/264336086/).
 
-## Files 
+## File structure
 
 - presentation.ipynb: nodebook with the presentation.
 - examples.ipynb: notebook with the code for the examples in the presentation.
