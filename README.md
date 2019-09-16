@@ -8,17 +8,17 @@
 - /fig: figures for the pres and computer exercise.
 
 
-# Software
+## Software
 
 Somthing on hwo to run the notebooks. 
 
-# References and further reading
+## References and further reading
 
 #### Some references on Bayesian statistics:
 
 Carpenter, Bob, et al. "Stan: A probabilistic programming language." Journal of statistical software 76.1 (2017. - Stan is a probabilitic programming framwork for building Bayesian models. 
 
-José M. Bernardo. BAYESIAN STATISTICS https://www.uv.es/bernardo/BayesStat.pdf - A nice and easy to read introduction paper, however, I would skip the objective Bayesian part.
+Bernardo, José M.. BAYESIAN STATISTICS https://www.uv.es/bernardo/BayesStat.pdf - A nice and easy to read introduction paper, however, I would skip the objective Bayesian part.
 
 Gabry, Jonah, et al. "Visualization in Bayesian workflow." Journal of the Royal Statistical Society: Series A (Statistics in Society) 182.2 (2019): 389-402. - A good paper on how run an Bayesian analyses, including prior and posterior checks.
 
