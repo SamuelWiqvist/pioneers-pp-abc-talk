@@ -46,12 +46,9 @@ Yildirim, Ilker. "Bayesian Inference: Metropolis-Hastings Sampling." Dept. of Br
 
 #### Some references on ABC:
 
-
 Fearnhead,  P.  and  Prangle,  D. *Constructing  summary statistics for approximate bayesian computation:  semi-automatic approximate Bayesian computation*. Journal of the Royal Statistical Society: Series B, 74(3):419–474, 2012.
 
-
 Jiang, B., Wu, T.-y., Zheng, C., and Wong, W. H. *Learning summary statistic for approximate Bayesian computation via deep neural network*. Statistica Sinica, pp. 1595–1618, 2017.
-
 
 Prangle, D. *Summary statistics in approximate Bayesian computation*. arXiv:1512.05633, 2015.
 
