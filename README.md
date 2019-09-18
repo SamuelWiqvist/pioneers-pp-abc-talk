@@ -46,8 +46,12 @@ Yildirim, Ilker. "Bayesian Inference: Metropolis-Hastings Sampling." Dept. of Br
 
 #### ABC:
 
-5. Drovandie, Christopher C. "Approximate Bayesian Computation." In wiley StatsRef: Statistics References Online. John Wiley & Sons Lt,Ltd. pp 1-9, 2017. - A nice and easy-to-read introduction paper. 
+Drovandie, Christopher C. "Approximate Bayesian Computation." In wiley StatsRef: Statistics References Online. John Wiley & Sons Lt,Ltd. pp 1-9, 2017. - A nice and easy-to-read introduction paper. 
+
+Marin, Jean-Michel, et al. "Approximate Bayesian computational methods." Statistics and Computing 22.6 (2012): 1167-1180. - A good (but slightly old review paper).
+
+Sisson, Scott A., and Yanan Fan. "Likelihood-free markov chain monte carlo." arXiv preprint arXiv:1001.2058 (2010). - A paper on ABC-MCMC. 
 
 Sisson, Scott A., Yanan Fan, and Mark Beaumont. Handbook of approximate Bayesian computation. Chapman and Hall/CRC, 2018. - The handbook of ABC, a book on ABC that covers many topics.
 
-https://xianblog.wordpress.com/2019/07/28/introductory-overview-lecture-the-abc-of-abc/ - The slides from Christian P. Robert JMS lectur.
+https://xianblog.wordpress.com/2019/07/28/introductory-overview-lecture-the-abc-of-abc/ - The slides from Christian P. Robert'sgit JMS lectur.
