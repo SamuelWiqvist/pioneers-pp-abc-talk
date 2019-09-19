@@ -20,7 +20,7 @@ The easiest way to run the code for the examples and the exercise is to use Juli
 
 1. Go to https://www.juliabox.com/ and create a free account.
 2. Clone (or download) this repo to your local computer.
-3. In the JuliaBox start scree, click on the ```jupyter``` tab and upload following files to your ```jupyter``` environment: ```computer exercise.ipynd```, ```computer exercise solutions.ipynd```, ```examples.ipynd```, and ```cars.csv```.
+3. In the JuliaBox start scree, click on the ```launch``` button and upload following files to your ```jupyter``` environment: ```computer exercise.ipynd```, ```computer exercise solutions.ipynd```, ```examples.ipynd```, and ```cars.csv```.
 4. You can now run the examples and work on the computer exercise.
 
 To get started with ```Julia``` there are some tutorials provided in JuliaBox.
